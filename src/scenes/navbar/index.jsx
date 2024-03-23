@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          GeekGrid
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
